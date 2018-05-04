@@ -1,3 +1,4 @@
 {
-  "3.4.2": "https://github.com/CodeEagle/FFmpegOpenSSL/releases/download/3.4.2/FFmpeg.framework.zip"
+  "3.4.2": "https://github.com/CodeEagle/FFmpegOpenSSL/releases/download/3.4.2/FFmpeg.framework.zip",
+  "4.0": "https://github.com/CodeEagle/FFmpegOpenSSL/releases/download/4.0/FFmpeg.framework.zip"
 }
